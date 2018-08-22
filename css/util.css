@@ -3373,6 +3373,16 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	letter-spacing: 2px;
 }
 
+.m-text28 {
+	font-family: Montserrat-Regular;
+	font-size: 18px;
+	color: #555555;
+	line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+
+
+
 /*[ L-Text 31 - 50 ]
 ///////////////////////////////////////////////////////////
 */
@@ -3386,6 +3396,14 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 }
 
 .l-text2 {
+	font-family: Montserrat-Bold;
+	font-size: 50px;
+	color: white;
+	line-height: 1.2;
+	text-transform: uppercase;
+}
+
+.l-text3 {
 	font-family: Montserrat-Bold;
 	font-size: 50px;
 	color: white;
@@ -3716,6 +3734,7 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 .bg6 {background-color: #f0f0f0;}
 .bg7 {background-color: #333333;}
 .bg8 {background-color: #e6e6e6;}
+.bg9 {background-color: #C5D200;}
 
 .bg-img1 {
 	background-repeat: no-repeat;
