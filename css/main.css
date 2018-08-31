@@ -1641,8 +1641,8 @@ li.sale-noti > a {
 /*[ Block2 ]
 ///////////////////////////////////////////////////////////
 */
-.block2-labelsale::before,
-.block2-labelnew::before 
+.block2-labelnew::before,
+.block2-labelupcoming::before 
 {
   z-index: 100;
   font-family: Montserrat-Regular;
@@ -1665,12 +1665,12 @@ li.sale-noti > a {
 
 .block2-labelsale::before {
   background-color: #e65540;
-  content: 'Sale';
+  content: 'Comming Soon';
 }
 
 .block2-labelnew::before {
   background-color: #66a8a6;
-  content: 'Comming Soon';
+  content: 'New';
 }
 
 /* ------------------------------------ */
