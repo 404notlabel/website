@@ -216,7 +216,7 @@ iframe {
     -o-animation: ball-scale infinite linear .75s;
     animation: ball-scale infinite linear .75s;
     border-radius: 100%;
-    background-color: #e65540;
+    background-color: #B8E207;
 }
 
 @-webkit-keyframes ball-scale {
@@ -571,7 +571,7 @@ iframe {
 
 .topbar-social-item {
   font-size: 18px;
-  color: #93BD17;
+  color: #B4D821;
   padding: 10px;
 }
 
@@ -580,7 +580,7 @@ iframe {
 .topbar-child1 {
   font-family: Montserrat-Regular;
   font-size: 13px;
-  color: #93BD17;
+  color: #B4D821;
   line-height: 1.7;
 }
 
@@ -679,7 +679,7 @@ iframe {
 }
 
 li.sale-noti > a {
-  color: #93BD17;
+  color: #B4D821;
 }
 
 .main_menu > li:hover > a {
@@ -740,7 +740,7 @@ li.sale-noti > a {
 }
 
 .sub_menu > li:hover > a {
-  color: #e65540;
+  color: #E0FF00;
   text-decoration: none;
 }
 
@@ -1380,9 +1380,9 @@ li.sale-noti > a {
   width: 40px;
   height: 40px;
   font-size: 18px;
-  color: white;
-  position: absolute;
-  background-color: black;
+  color: black;
+  position: absolute; 
+  background-color: #DDDDDD;
   opacity: 0;
   
   top: 50%;
@@ -1405,7 +1405,7 @@ li.sale-noti > a {
 }
 
 .arrow-slick1:hover {
-  background-color: #DDDDDD;
+  background-color: #E0FF00;
 }
 
 .next-slick1 {
@@ -1576,7 +1576,7 @@ li.sale-noti > a {
 }
 
 .swal-button {
-    background-color: #e65540;
+    background-color: #E0FF00;
     font-family: Montserrat-Regular;
     font-size: 15px;
     color: white;
@@ -1594,7 +1594,7 @@ li.sale-noti > a {
 }
 
 .swal-button:active {
-    background-color: #e65540;
+    background-color: #E0FF00;
 }
 
 .swal-title {
@@ -1664,7 +1664,7 @@ li.sale-noti > a {
 }
 
 .block2-labelsale::before {
-  background-color: #e65540;
+  background-color: #E0FF00;
   content: 'Comming Soon';
 }
 
@@ -1737,7 +1737,7 @@ li.sale-noti > a {
 
 .block2-btn-towishlist .icon_heart {
   display: block;
-  color: #e65540;
+  color: #E0FF00;
 }
 
 /* ------------------------------------ */
@@ -2185,7 +2185,7 @@ li.sale-noti > a {
 }
 
 .tag-item:hover {
-  border: 1px solid #e65540;
+  border: 1px solid #E0FF00;
 }
 
 
